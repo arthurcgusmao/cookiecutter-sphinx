@@ -1,0 +1,9 @@
+{
+    "project_name": "Project Name",
+    "author_name": "Your name (or your organization/company/team)",
+    "docs_dir": "docs",
+    "module_dir": "src",
+    "info_file": "info.yaml",
+    "year": "{% now 'utc', '%Y' %}",
+    "version": "0.1.0"
+}
